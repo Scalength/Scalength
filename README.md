@@ -1,7 +1,6 @@
 <div align="center">
-# Hi, I'm Sean 👋
-
-A developer who builds in Lua — mostly Roblox projects using modern tooling.
+<h1>Hello, I'm Sean 👋</h1>
+<p>A developer who builds in Lua — mostly Roblox projects using modern tooling.</p>
 </div>
 ---
 
