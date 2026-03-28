@@ -22,5 +22,5 @@
 ### 📊 Stats
 
 <p align="left">
-  <img src="https://github-readme-stats-gjvg.vercel.app/api/top-langs?username=Scalength&layout=donut&hide_border=true&hide=javascript,python,css,luau)"/>
+  <img src="https://github-readme-stats-gjvg.vercel.app/api/top-langs?username=Scalength&layout=donut&hide_border=true&hide=javascript,python,css,luau,html)"/>
 </p>
