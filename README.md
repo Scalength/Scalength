@@ -6,10 +6,10 @@
 ### 🛠️ Tools & Languages
 
 <p align="left">
-  <a href="https://luau.org" target="_blank" style="text-decoration: none">
+  <a href="https://luau.org" target="_blank">
     <img src="https://luau.org/_astro/luau-logo.DU3ngeWd.svg" alt="luau" width="40" height="40" style="margin-right: 8px"/>
   </a>
-  <a href="https://code.visualstudio.com" target="_blank" style="text-decoration: none">
+  <a href="https://code.visualstudio.com" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
   </a>
 </p>
