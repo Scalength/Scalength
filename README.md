@@ -1,6 +1,6 @@
 <div align="center">
 <h1>Hello, I'm Sean 👋</h1>
-<h1>A developer who builds in Lua and love doing side quests</h1>
+<p><strong>A developer who builds in Lua and love doing side quests</strong></p>
 </div>
 
 ### 🛠️ Tools & Languages
