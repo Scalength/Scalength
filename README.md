@@ -1,16 +1,19 @@
-## Hi there 👋
+<p align="center">
+  <a href="https://discord.com/users/566122107298250752">
+    <img src="https://lanyard.cnrad.dev/api/566122107298250752?theme=dark&bg=1a1b27&animated=true" />
+  </a>
+</p>
 
-<!--
-**Scalength/Scalength** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## ⚙️ Proficient Languages
+[![Skills](https://skillicons.dev/icons?i=lua,cpp,python)](https://skillicons.dev)
 
-Here are some ideas to get you started:
+## 🛠️ Tools Utilized
+[![Tools](https://skillicons.dev/icons?i=robloxstudio,vscode,figma,react,git)](https://skillicons.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Scalength&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Scalength&theme=github_dark" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Scalength&theme=github_dark" />
+</p>
