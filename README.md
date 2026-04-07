@@ -1,4 +1,4 @@
-![Static Badge](https://img.shields.io/badge/7%20years-FFFFFF?label=developer&labelColor=%23121212&color=%23262626&logo=lua)
+![Static Badge](https://img.shields.io/badge/3%20years-FFFFFF?label=developer&labelColor=%23121212&color=%23262626&logo=lua)
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Scalength&right_color=%23262626&left_color=%2312121)
 
 <!-- inspired by master oogwawy <3 -->
@@ -29,7 +29,7 @@
 ### 🛠&nbsp;Tools Utilized
 <p align="left">
   <a href="https://github.com/Scalength">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=robloxstudio, vscode, figma, react, git">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=robloxstudio,vscode,figma,react,git">
   </a>
 </p>
 
