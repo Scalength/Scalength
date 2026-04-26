@@ -9,7 +9,7 @@
   </a>
 </div>
 
-### 🌐&nbsp;Contacts
+### Contacts
 <div style="display: flex; align-items: center;">
   <a href="https://discord.com/users/566122107298250752" target="_blank">
     <img src="https://go-skill-icons.vercel.app/api/icons?i=discord" height="75em" width="75rem"/>
@@ -19,14 +19,14 @@
   </a>
 </div>
 
-### 🛠&nbsp;Proficient Languages
+### Proficient Languages
 <p align="left">
   <a href="https://github.com/Scalength">
     <img src="https://go-skill-icons.vercel.app/api/icons?i=lua,cpp,python">
   </a>
 </p>
 
-### 🛠&nbsp;Tools Utilized
+### Tools Utilized
 <p align="left">
   <a href="https://github.com/Scalength">
     <img src="https://go-skill-icons.vercel.app/api/icons?i=robloxstudio,vscode,figma,react,git">
