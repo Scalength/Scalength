@@ -33,7 +33,7 @@
   </a>
 </p>
 
-### ⚙️&nbsp;GitHub Analytics
+### GitHub Analytics
 <p align="center">
   <a href="https://github.com/Scalength">
     <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Scalength&theme=github_dark"/>
